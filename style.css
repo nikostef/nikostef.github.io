@@ -350,7 +350,7 @@
 	Personal CSS
 =========================*/  
 #personal-area {
-	/*background-image: url('images/image3.png'); */
+	background-image: url('images/backgr.jpg');
 	background-size: cover;
 	background-repeat: repeat;
 	height: 680px;
